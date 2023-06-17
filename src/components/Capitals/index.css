@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #93c5fd;
+}
+
+.card-container {
+  background-color: #f8fafc;
+  width: 80%;
+  min-height: 300px;
+  min-width: 340px;
+  padding: 40px;
+  border-radius: 15px;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.name {
+  font-size: 40px;
+  font-weight: 600;
+}
